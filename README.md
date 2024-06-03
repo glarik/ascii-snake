@@ -1,34 +1,6 @@
 # Intro
 
-This is a fairly rough implementation of the famouse snake game. The snake is made of `o` characters and eats "fruits" that are really just `a` characters :). Here is a "screenshot":
-
-----------------------------------------------------------------------------------
-|                                                                                |
-|                                                                                |
-|                                                                                |
-|              a                                         a                       |
-|                          a                                                     |
-|                                                                                |
-|                                                                                |
-|a                                                                               |
-|                                                                                |
-|                                                                                |
-|                                                                                |
-|     oooooooooo                                                                 |
-|                                                                                |
-|                                                                                |
-|                                                                                |
-|                                                                                |
-|                                                                                |
-|                                                                                |
-|                                                                                |
-|                                                                                |
-|                                                                                |
-|                                                                                |
-|                                                                                |
-|                                                                                |
-|                                                                                |
-----------------------------------------------------------------------------------
+This is a fairly rough implementation of the famouse snake game. The snake is made of `o` characters and eats "fruits" that are really just `a` characters :).
 
 # Building and running
 
