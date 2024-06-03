@@ -1,6 +1,6 @@
 # Intro
 
-This is a fairly rough C++ implementation of the famouse snake game. The snake is made of `o` characters and eats "fruits" that are really just `a` characters :). I made this as a personal project to see whether I could make a simple game with just C++. Ultimately I ended up also using the curses library, which includes many QoL functions for 'drawing' characters on the screen.
+This is a fairly rough C++ implementation of the famouse snake game. The snake is made of `o` characters and eats "fruits" that are really just `a` characters :). I made this as a personal project to see whether I could make a simple game with just C++. Ultimately I ended up also using the curses library, which includes many QoL functions for "drawing" characters on the screen.
 
 # Building and running
 
